@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-**MrNiceRicee/MrNiceRicee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on cracking the coding interview
 - 🌱 I’m currently learning how to create more accessible applications, and machine learning
 - 👯 I’m looking to collaborate on developing applications to help those in need
