@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/joshua-constantine-santos/](https://www.linkedin.com/in/joshua-constantine-santos/)
 
-- ⚡ Fun fact **I can definitely hold my breath longer than 20 seconds :)**
+- ⚡ Fun fact **I can definitely hold my breath longer than 20 seconds :)** and I have two first names
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
